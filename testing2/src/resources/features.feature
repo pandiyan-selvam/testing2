@@ -3,7 +3,7 @@ Feature: Confirmation
 Scenario: validate user
 Given login user  page
 When the user enters the details and clicks "submit"
-Then "validate" the user details
+Then show "validation success" msg
 
 Scenario: 2nd scenario
 Given Confirmation page

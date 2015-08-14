@@ -50,49 +50,49 @@ public class CucumberSteps extends TestCase {
 	@Then("^show \"([^\"]*)\"  or \"([^\"]*)\" msg$")
 	public void show_or_msg(String arg1, String arg2) throws Throwable {
 	    // Express the Regexp above with the code you wish you had
-	    throw new PendingException();
+	   // throw new PendingException();
 	}
 
 	@Given("^Confirmation cancellation page$")
 	public void Confirmation_cancellation_page() throws Throwable {
 	    // Express the Regexp above with the code you wish you had
-	    throw new PendingException();
+	   // throw new PendingException();
 	}
 
 	@Then("^show \"([^\"]*)\" msg$")
 	public void show_msg(String arg1) throws Throwable {
 	    // Express the Regexp above with the code you wish you had
-	    throw new PendingException();
+	   // throw new PendingException();
 	}
 
 	@Given("^Confirmation page success$")
 	public void Confirmation_page_success() throws Throwable {
 	    // Express the Regexp above with the code you wish you had
-	    throw new PendingException();
+	   // throw new PendingException();
 	}
 
 	@Then("^driver receives the guest user details and pick up the guest user$")
 	public void driver_receives_the_guest_user_details_and_pick_up_the_guest_user() throws Throwable {
 	    // Express the Regexp above with the code you wish you had
-	    throw new PendingException();
+	   // throw new PendingException();
 	}
 
 	@Given("^guest user details$")
 	public void guest_user_details() throws Throwable {
 	    // Express the Regexp above with the code you wish you had
-	    throw new PendingException();
+	   // throw new PendingException();
 	}
 
 	@When("^driver \"([^\"]*)\"$")
 	public void driver(String arg1) throws Throwable {
 	    // Express the Regexp above with the code you wish you had
-	    throw new PendingException();
+	   // throw new PendingException();
 	}
 
 	@Then("^notify driver$")
 	public void notify_driver() throws Throwable {
 	    // Express the Regexp above with the code you wish you had
-	    throw new PendingException();
+	   // throw new PendingException();
 	}
 
 

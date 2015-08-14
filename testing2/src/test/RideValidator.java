@@ -5,7 +5,7 @@ public class RideValidator {
 	
 	public String validateLogin()
 	{
-		return "validation success";
+		return "submit";
 	}
 	public String confirmationSuccess()
 	{
